@@ -1,0 +1,8 @@
+/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/classes/debug
+/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2102c5ab962e771e6e49372668d72ebc513e36c8.jar
+/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-b8d5037c74b9095cd37f342e15b1415abd9395d6.jar
+/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-14dabbdc5f64a737696f5c27307e0af291983f63.jar
+/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-40c90f7aea8e7a13f541442a57278e66b83a76cc.jar
+/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f97dbb1e25a55d220c40465f7684010cbd30a6ba.jar
+/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-58eea461c4be21193656c29f9253e3f61638ae91.jar
+/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-350a105c57bb2181b5e93e3ed55810342747322e.jar

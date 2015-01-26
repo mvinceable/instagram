@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/libs/android-async-http-1.4.6.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a845a88238be0b5be9d238652c1bc0605ef91f52">
+        <dex dex="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/android-async-http-1.4.6-14dabbdc5f64a737696f5c27307e0af291983f63.jar" />
+    </item>
+    <item
+        jar="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-350a105c57bb2181b5e93e3ed55810342747322e.jar" />
+    </item>
+    <item
+        jar="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/21.0.3/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="81d42bf983a8741f4888a6e333e454e4a5e0eeb7">
+        <dex dex="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-58eea461c4be21193656c29f9253e3f61638ae91.jar" />
+    </item>
+    <item
+        jar="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/exploded-aar/com.makeramen/roundedimageview/1.5.0/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="b2f7dddedcdb3facde33de103dcc32b10c43b92e">
+        <dex dex="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/classes-b8d5037c74b9095cd37f342e15b1415abd9395d6.jar" />
+    </item>
+    <item
+        jar="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/exploded-aar/com.android.support/support-v4/21.0.3/libs/internal_impl-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/internal_impl-21.0.3-f97dbb1e25a55d220c40465f7684010cbd30a6ba.jar" />
+    </item>
+    <item
+        jar="/Users/mvince/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/21.0.3/support-annotations-21.0.3.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/support-annotations-21.0.3-2102c5ab962e771e6e49372668d72ebc513e36c8.jar" />
+    </item>
+    <item
+        jar="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/libs/picasso-2.4.0.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="f36d2d4e3a36b3259aaf9d004d29b4cdc6c1bfb2">
+        <dex dex="/Users/mvince/AndroidStudioProjects/InstagramViewer/app/build/intermediates/pre-dexed/debug/picasso-2.4.0-40c90f7aea8e7a13f541442a57278e66b83a76cc.jar" />
+    </item>
+
+</items>
