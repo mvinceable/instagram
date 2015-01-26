@@ -10,7 +10,7 @@ Completed required user stories:
 
 Completed optional user stories:
 
-* [x] Show relative timestamp, like count, ans user profile image
+* [x] Show relative timestamp, like count, and user profile image
 * [x] Add pull-to-refresh for popular stream with [SwipeRefreshLayout](http://guides.codepath.com/android/Implementing-Pull-to-Refresh-Guide).
 * [x] Show latest comment for each photo
 * [x] Bonus: show last 2 comments for each photo
